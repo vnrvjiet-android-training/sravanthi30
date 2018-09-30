@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "911540350434",
+    "firebase_url": "https://fir-authapp-984ce.firebaseio.com",
+    "project_id": "fir-authapp-984ce",
+    "storage_bucket": "fir-authapp-984ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911540350434:android:975ab8e3b6d071ed",
+        "android_client_info": {
+          "package_name": "com.sravanthi.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911540350434-ebetoq9mjojaqmi6je4ldv6hu7qukh9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB03cczECl7m126_10c9IjbtjRlIFIgPiU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
